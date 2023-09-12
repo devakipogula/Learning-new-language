@@ -1,0 +1,114 @@
+.navbar-content{
+    background: #15b2c2;
+    margin: 3px;
+    padding: 12px;
+}
+.learn-logo{
+    padding: 0 19px;
+    margin-left: -30px;
+}
+.language-greeting{
+    width:417px;
+    margin-left:447px;
+}
+.moving-animation{
+    width:600px;
+}
+.matter-info {
+    margin: 15px;
+    padding: 3px;
+}
+.detailed-info{
+    margin: 15px;
+    padding: 3px;
+    font-size: 18px;
+}
+.grammer-info{
+    font-size:20px;
+}
+.grammer-1{
+    width: 537px;
+    padding: 13px;
+    margin: 9px;
+}
+
+.first-links{
+    margin-left: 69px;
+    font-size: 22px;
+    text-decoration: underline;
+}
+.second-link{
+    margin-left: 419px;
+    font-size: 22px;
+    text-decoration: underline;
+}
+.main-image-info{
+    width: 530px;
+    margin-top: 13px;
+    margin-left: 252px;
+}
+.speaking-skill{
+    width: 749px;
+}
+.table-container{
+    width:999px;
+    margin-left:63px
+}
+.conversation-bwtwo{
+    width: 256px;
+    margin-left: 1070px;
+    margin-top: -271px;
+}
+
+/* writing styles starts here */
+.writing-skill{
+    width: 500px;
+    margin-left: -872px;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+.writing-section{
+    margin-left: 24px;
+}
+.first-writing{
+     margin-left: -159px;
+    margin-bottom: 341px;
+    margin-top: -380px;
+    font-size:29px;   
+}
+
+.first-writing-info{
+    margin-left: 393px;
+    margin-bottom: 315px;
+    margin-top: -333px;
+    font-size:20px;
+}
+.inside-styles{
+    margin: 146px;
+    margin-top: -313px;
+    margin-left: 377px;
+    font-size: 20px;
+}
+.second-writing{
+    padding-right: 415px;
+    font-size:29px;
+}
+.rules{
+    border-radius: 8px;
+}
+.footer-section{
+    background: #15b2c2;
+}
+.first-footer{
+    margin-left: 118px;
+    font-size: 18px;
+}
+.second-footer{
+    margin-left: 170px;
+    font-size: 18px;
+}
+.third-footer{
+    margin-left: 107px;
+    font-size: 18px;
+    
+}
