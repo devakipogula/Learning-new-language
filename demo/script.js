@@ -1,0 +1,1 @@
+confirm("welcome to the webpage");
